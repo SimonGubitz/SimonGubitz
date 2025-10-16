@@ -3,7 +3,17 @@
 <!--
 **SimonGubitz/SimonGubitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Simon Gubitz's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonGubitz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonGubitz&count_private=true&show_icons=true&include_all_commits=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=SimonGubitz&count_private=true&show_icons=true&include_all_commits=true&theme=light"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SimonGubitz&count_private=true&show_icons=true&include_all_commits=true" />
+</picture>
 
 Here are some ideas to get you started:
 
